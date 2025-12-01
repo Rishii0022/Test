@@ -15,6 +15,6 @@ except Exception as e:
     print("Proxy failed")
     print("Error:", e)
 
-#no clue gang 007
+#no clue gang 006
 
 
