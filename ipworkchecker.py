@@ -1,6 +1,6 @@
 import requests
 
-proxy = "219.65.73.81:80"
+proxy = "40.192.16.115:8085"
 
 proxies = {
     "http": f"http://{proxy}",
